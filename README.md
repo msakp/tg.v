@@ -1,1 +1,3 @@
-# tg.V - fully functional telegram's channels viewer with respect to anonymity
+# tg.V
+
+## telegram client for channel viewing with respect to anonymity
